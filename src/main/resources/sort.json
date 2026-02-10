@@ -1,0 +1,109 @@
+[ {
+  "nome" : "Overwatch",
+  "tag" : [ "hero shooter", "shooter", "competitive", "multiplayer", "team-based" ],
+  "prezzo" : 39.99,
+  "studio" : "Blizzard Entertainment",
+  "piattaforme" : [ "ps4", "pc", "xbox one", "switch" ],
+  "pegi" : 12,
+  "crossPlay" : true,
+  "affinity" : 22
+}, {
+  "nome" : "FIFA 21",
+  "tag" : [ "sports", "simulation", "competitive", "football", "multiplayer" ],
+  "prezzo" : 69.99,
+  "studio" : "EA Sports",
+  "piattaforme" : [ "ps4", "pc", "ps5", "xbox series x/s", "xbox one" ],
+  "pegi" : 3,
+  "crossPlay" : false,
+  "affinity" : 9
+}, {
+  "nome" : "The Legend of Zelda: Breath of the Wild",
+  "tag" : [ "exploration", "puzzle", "open-world", "action-adventure", "singleplayer" ],
+  "prezzo" : 59.99,
+  "studio" : "Nintendo EPD",
+  "piattaforme" : [ "wii u", "nintendo switch" ],
+  "pegi" : 12,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "Dark Souls",
+  "tag" : [ "action rpg", "combat", "soulslike", "challenging", "singleplayer" ],
+  "prezzo" : 39.99,
+  "studio" : "FromSoftware",
+  "piattaforme" : [ "ps3", "pc", "xbox 360" ],
+  "pegi" : 16,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "Stardew Valley",
+  "tag" : [ "indie", "cozy", "simulation", "crafting", "farming", "singleplayer" ],
+  "prezzo" : 13.99,
+  "studio" : "ConcernedApe",
+  "piattaforme" : [ "ps4", "pc", "nintendo switch", "xbox one" ],
+  "pegi" : 12,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "Civilization VI",
+  "tag" : [ "4x", "strategy", "singleplayer", "turn-based", "multiplayer" ],
+  "prezzo" : 59.99,
+  "studio" : "Firaxis Games",
+  "piattaforme" : [ "pc", "linux", "ios", "macos", "switch" ],
+  "pegi" : 12,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "Hades",
+  "tag" : [ "indie", "replayability", "roguelike", "action", "story-driven" ],
+  "prezzo" : 24.99,
+  "studio" : "Supergiant Games",
+  "piattaforme" : [ "ps4", "pc", "ps5", "xbox", "switch" ],
+  "pegi" : 12,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "Minecraft",
+  "tag" : [ "survival", "sandbox", "creative", "building", "multiplayer" ],
+  "prezzo" : 26.99,
+  "studio" : "Mojang Studios",
+  "piattaforme" : [ "ps4", "pc", "mobile", "xbox one", "switch" ],
+  "pegi" : 7,
+  "crossPlay" : true,
+  "affinity" : 0
+}, {
+  "nome" : "Portal 2",
+  "tag" : [ "co-op", "puzzle", "physics", "first-person", "singleplayer" ],
+  "prezzo" : 9.99,
+  "studio" : "Valve",
+  "piattaforme" : [ "ps3", "pc", "xbox 360" ],
+  "pegi" : 12,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "Celeste",
+  "tag" : [ "indie", "precision-platforming", "platformer", "singleplayer", "story" ],
+  "prezzo" : 19.99,
+  "studio" : "Maddy Makes Games",
+  "piattaforme" : [ "ps4", "pc", "xbox one", "switch" ],
+  "pegi" : 7,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "The Witcher 3: Wild Hunt",
+  "tag" : [ "rpg", "open-world", "choices", "singleplayer", "story-driven" ],
+  "prezzo" : 39.99,
+  "studio" : "CD Projekt Red",
+  "piattaforme" : [ "ps4", "pc", "xbox one", "switch" ],
+  "pegi" : 18,
+  "crossPlay" : false,
+  "affinity" : 0
+}, {
+  "nome" : "Among Us",
+  "tag" : [ "co-op", "social", "social deduction", "party", "multiplayer" ],
+  "prezzo" : 4.99,
+  "studio" : "Innersloth",
+  "piattaforme" : [ "pc", "mobile", "switch" ],
+  "pegi" : 7,
+  "crossPlay" : true,
+  "affinity" : 0
+} ]
